@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  height: 100px;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 20px;
+  border-bottom: 3px solid orange;
+}
+
+.image {
+  height: 100px;
+}
